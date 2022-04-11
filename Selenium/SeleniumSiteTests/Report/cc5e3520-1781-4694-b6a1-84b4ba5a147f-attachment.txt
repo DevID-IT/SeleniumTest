@@ -1,0 +1,9 @@
+[32mINFO    [0m WDM:logger.py:27 
+
+[32mINFO    [0m WDM:logger.py:27 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:27 Current google-chrome version is 99.0.4844
+[32mINFO    [0m WDM:logger.py:27 Get LATEST chromedriver version for 99.0.4844 google-chrome
+[32mINFO    [0m WDM:logger.py:27 Driver [C:\Users\david\.wdm\drivers\chromedriver\win32\99.0.4844.51\chromedriver.exe] found in cache
+[32mINFO    [0m pages.my_account_page:my_account_page.py:24 Strona została otwarta
+[32mINFO    [0m pages.my_account_page:my_account_page.py:28 Logujemy się do aplikacji za pomocą login: TesterOprogramowania@gmail.com i hasła: TesterOprogramowania
+[32mINFO    [0m pages.my_account_page:my_account_page.py:42 Sprawdzamy czy link jest widoczny
